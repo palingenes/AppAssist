@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ll_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:visibility="gone"
+    tools:background="@color/black"
+    tools:context=".ui.MainActivity"
+    tools:visibility="visible">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="50dp"
+        android:text="1. 按照提示打开对应权限
+\n2. 打开权限返回当前app后会打开侧边悬浮按钮
+\n3. 五秒钟之后会跳转到vpn界面
+\n4. 如未出现2/3，请重新进入软件按照步骤重试"
+        android:textColor="#efefef"
+        android:textSize="14sp"
+        tools:ignore="HardcodedText" />
+
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_float_window"
+        style="@style/MainButtonStyle"
+        android:text="@string/permission_flatwindow"
+        tools:visibility="visible" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_accessibility"
+        style="@style/MainButtonStyle"
+        android:text="@string/permission_accessibility"
+        tools:visibility="visible" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/isActionSupport"
+        style="@style/MainButtonStyle"
+        android:text="isActionSupport"
+        android:visibility="visible"
+        tools:ignore="HardcodedText" />
+</LinearLayout>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 白色主题的主要色彩 -->
+    <color name="whiteColorPrimary">#FFFFFF</color>
+    <color name="whiteColorPrimaryDark">#F5F5F5</color>
+    <color name="whiteColorAccent">#AFAFAF</color>
+    <!-- 白色主题的文字和背景色彩 -->
+    <color name="whiteColorText">#000000</color>
+    <color name="whiteColorTextAlpha30">#4D000000</color>
+    <color name="whiteColorTextReverse">#FFFFFF</color>
+    <color name="whiteColorBackground">#FFFEFEFE</color>
+    <color name="whiteColorBackgroundDark">#FFFFFF</color>
+    <color name="whiteColorBackgroundReverse">#303030</color>
+
+    <!-- 黑色主题的主要色彩 -->
+    <color name="blackColorPrimary">#121212</color>
+    <color name="blackColorPrimaryDark">#000000</color>
+    <color name="blackColorAccent">#AFAFAF</color>
+    <!-- 黑色主题的文字和背景色彩 -->
+    <color name="blackColorText">#FFFFFF</color>
+    <color name="blackColorTextAlpha30">#FFFFFF</color>
+    <color name="blackColorTextReverse">#303030</color>
+    <color name="blackColorBackground">#303030</color>
+    <color name="blackColorBackgroundDark">#101010</color>
+    <color name="blackColorBackgroundReverse">#FFFFFF</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="orange">#FFEF6922</color>
+    <color name="nb.widget.button.selected">#FFE3E3E3</color>
+
+    <color name="light_translucent">#23000000</color>
+    <color name="gray_translucent">#B50E0D0D</color>
+    <color name="color_373737">#373737</color>
+    <color name="transparent">#00000000</color>
+    <color name="colorControlHighlight">#40bbbbbb</color>
+    <color name="gray">#FF808080</color>
+    <color name="color_333">#333333</color>
+    <color name="color_666">#666666</color>
+    <color name="color_999">#999999</color>
+    <!-- 透明 -->
+    <color name="nothing">#00000000</color>
+
+
+    <color name="yellow_hot_word">#FF9A00</color>
+
+    <!-- 阅读器字体与背景颜色 -->
+    <color name="sys_common_bg">#FFF6F6F6</color>
+    <color name="sys_common_word">#FF000000</color>
+    <color name="sys_leather_eye_bg">#FFE7D8BC</color>
+    <color name="sys_leather_word">#FF252525</color>
+    <color name="sys_protect_eye_bg">#FFAFD1B7</color>
+    <color name="sys_protect_eye_word">#FF2C2C2C</color>
+    <color name="sys_breen_bg">#FFD5DDBD</color>
+    <color name="sys_breen_word">#FF292829</color>
+    <color name="sys_blue_deep_bg">#FFCED8E2</color>
+    <color name="sys_blue_deep_word">#FF2D2E30</color>
+    <color name="sys_night_bg">#FF212121</color>
+    <color name="sys_night_word">#FFB8B8B8</color>
+
+
+    <color name="sys_dialog_setting_bg">#FFFFFFFF</color>
+    <color name="sys_dialog_setting_line">#FF393839</color>
+    <color name="sys_dialog_setting_word">#FF6C6C6C</color>
+    <color name="sys_dialog_setting_word_red">#FFEB4C41</color>
+    <color name="sys_dialog_setting_word_bright">#FFd6d7d6</color>
+    <color name="color_ffeb4c41">#FFEB4C41</color>
+    <color name="color_ff2a2a2a">#FF2A2A2A</color>
+    <color name="color_f6f3ef">#F6F3EF</color>
+    <color name="color_f9c0b8">#F9C0B8</color>
+
+    <color name="bg_button_touch">#ffffff</color>
+    <color name="bg_button_normal">#505050</color>
+    <color name="bg">#f6f7ff</color>
+    <color name="color_main">#32e8fe</color>
+    <color name="border_bar">#555f7f</color>
+    <color name="color_2a">#202020</color>
+    <color name="color_3a">#3a3a3a</color>
+</resources>
